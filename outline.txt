@@ -1,0 +1,5 @@
+Function t0_scan:
+  
+  take in a string of char, go through it if '.' is found, say where.
+
+	
