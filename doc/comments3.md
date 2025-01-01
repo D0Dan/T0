@@ -16,6 +16,10 @@ main_64.c:
 
 4. Consider using perror() when read() returns -1.
 
+5. Add .gitignore file to exclude *.o and executables from the repo. The repo
+   should contain sources only. Everything which is getting produced from the
+   sources should be in .gitignore.
+
 5. You still need to enable spellchecker in your editor.
 
 You should prepare a 100M file which contains spaces or zeros and a period right
